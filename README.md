@@ -4,7 +4,7 @@
 
 ## Description
 
-- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing, and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world. CHANGE.
+- Throughout your Lambda School experience thus far you have learned how to work with Git/GitHub and have had practice using the basic commands for staging, committing, pushing, and publishing your commits to a fork. Learning now, the rest of what you need in order to work as a productive member of a product organization will set you up for success not only in labs, but give you insight into what how the product teams work in the real world.
 
 ## Purpose
 
@@ -46,3 +46,5 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
+
+### Jason Duncan
